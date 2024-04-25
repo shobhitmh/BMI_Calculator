@@ -48,8 +48,8 @@ This Flutter project is a simple Body Mass Index (BMI) calculator. It allows use
 - Launch the app on your emulator or device.
 - Enter your weight in kilograms.
 - Enter your height in centimeters.
-- Press the "Calculate" button to see your BMI and category.
-- You can reset the inputs by pressing the "Reset" button.
+- Press the "Calculate" button to see your BMI .
+
 ### Contributing
  Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
