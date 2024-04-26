@@ -59,7 +59,7 @@ This Flutter project is a simple Body Mass Index (BMI) calculator. It allows use
 - Commit your changes (git commit -am 'Add new feature').
 - Push to the branch (git push origin feature/new-feature).
 - Create a new Pull Request.
-### License
+
 
 
    
